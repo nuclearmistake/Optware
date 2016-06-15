@@ -21,7 +21,7 @@
 # "NSLU2 Linux" other developers will feel free to edit.
 #
 IFTOP_SITE=http://www.ex-parrot.com/~pdw/iftop/download
-IFTOP_VERSION=0.17
+IFTOP_VERSION=1.0pre4
 IFTOP_SOURCE=iftop-$(IFTOP_VERSION).tar.gz
 IFTOP_DIR=iftop-$(IFTOP_VERSION)
 IFTOP_UNZIP=zcat
